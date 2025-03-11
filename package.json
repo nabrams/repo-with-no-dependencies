@@ -1,0 +1,6 @@
+{
+  "name": "repo-with-no-dependencies",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+}
